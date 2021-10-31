@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/df8f8f311214588c90cdb.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/WHITE🐉DRAGON-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/ALPHA-NET-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥Viduna-Developer👉Isuru-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥Viduna-Owner👉Kushan/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> t
 </p>
 
 ----
-
+# [![Typing SVG](https://bit.ly/3GBaq2A)](https://github.com/TOXIC-DEVIL)
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
