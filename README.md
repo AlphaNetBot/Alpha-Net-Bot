@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/df8f8f311214588c90cdb.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/ALPHA-NET-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -65,7 +65,7 @@ CREATED BY VIDUNA NETHMIRA
 ## Helpers
   <div align="center">
     
-  [![White-Dragon](https://telegra.ph/file/df8f8f311214588c90cdb.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![White-Dragon](https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [White-Dragon](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
